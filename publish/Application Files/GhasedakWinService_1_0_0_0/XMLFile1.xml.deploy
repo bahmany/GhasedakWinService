@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<smsBatch>
+
+	<sms>
+		<rowID><![CDATA[8918100]]></rowID>
+		<origAddr><![CDATA[9125248398]]></origAddr>
+		<destAddr><![CDATA[10009125248398]]></destAddr>
+		<time><![CDATA[2010/05/24 12:06:09]]></time>
+		<message><![CDATA[لحرصر]]></message>
+	</sms>
+	<sms>
+		<rowID><![CDATA[8918107]]></rowID>
+		<origAddr><![CDATA[9125248398]]></origAddr>
+		<destAddr><![CDATA[10009125248398]]></destAddr>
+		<time><![CDATA[2010/05/24 12:06:37]]></time>
+		<message><![CDATA[لحرصر]]></message>
+	</sms>
+</smsBatch>
